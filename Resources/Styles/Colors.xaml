@@ -50,6 +50,17 @@
     <Color x:Key="SelectionColorDark">#FF5F1F</Color>
 
 
+    <!--NAV BAR-->
+    <Color x:Key="NavBarBackgroundColorLight">#8806CE</Color>
+    <Color x:Key="NavBarBackgroundColorDark">#8806CE</Color>
+
+    <Color x:Key="NavBarIconColorLight">#e7cdf5</Color>
+    <Color x:Key="NavBarIconColorDark">#1b0129</Color>
+
+    <Color x:Key="NavBarTextColorLight">#e7cdf5</Color>
+    <Color x:Key="NavBarTextColorDark">#1b0129</Color>
+
+
     <!--RADIO BUTTON-->
     <Color x:Key="RadioButtonBackgroundColorLight">#e2d1cf</Color>
     <Color x:Key="RadioButtonBackgroundColorDark">#e2d1cf</Color>
